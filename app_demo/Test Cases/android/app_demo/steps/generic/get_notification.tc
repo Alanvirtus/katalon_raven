@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>get_notification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>812a6365-7b17-4276-8e73-9022ea7d756e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>82cedd85-888b-4832-a84c-207bcca3683d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>82cedd85-888b-4832-a84c-207bcca3683d</id>
+      <masked>false</masked>
+      <name>TEXTO_NOTIFICACION</name>
+   </variable>
+</TestCaseEntity>

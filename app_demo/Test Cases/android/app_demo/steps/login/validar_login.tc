@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validar_login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c95af84-8bb2-4bf2-855f-7fae691e80cf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0992661f-c6c6-4e19-9f39-fb8b3f1f1733</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>85e728fd-c681-46b8-aa11-2f49ebff103f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0992661f-c6c6-4e19-9f39-fb8b3f1f1733</id>
+      <masked>false</masked>
+      <name>MENSAJE_ESPERADO</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>85e728fd-c681-46b8-aa11-2f49ebff103f</id>
+      <masked>false</masked>
+      <name>MENSAJE_ACTUAL</name>
+   </variable>
+</TestCaseEntity>

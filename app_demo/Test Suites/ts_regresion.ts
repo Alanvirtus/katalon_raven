@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ts_regresion</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient>david.chavez.avila@gmail.com;</mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>500952d9-995e-4a6b-93f8-5372422efe1d</testSuiteGuid>
+   <testCaseLink>
+      <guid>527f09fd-f2ec-4bde-a066-f6a902a90f8f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/android/app_demo/test_cases/01_login_exitoso</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8ce39e63-52f1-4efa-a60c-3ede1972b797</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>2</value>
+         </iterationEntity>
+         <testDataId>Data Files/android/dt_usuarios</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8ce39e63-52f1-4efa-a60c-3ede1972b797</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>USUARIO</value>
+         <variableId>97bbecc2-ed22-4746-8d2f-d0c7aca76408</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8ce39e63-52f1-4efa-a60c-3ede1972b797</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PASSWORD</value>
+         <variableId>3fbf4321-c02a-46e6-ad2a-f0267ee62b90</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bed1a24b-16ba-4f7e-a367-2c272f913d9b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/android/app_demo/test_cases/02_login_usuario_invalido</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>384dd6a2-d53a-4dab-81e3-fdb2ff52fb7d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ce437471-0a12-4ad3-9999-66760acafac9</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>031e04ba-b076-4a65-a9cc-c4bd8b49ffa3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/android/app_demo/test_cases/03_consultar_registros</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2d158761-69cb-4349-9473-7cf978b64008</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b5d118c4-5a76-4884-8178-48d566c0f8ee</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9a3d92db-a448-4f97-a261-3388d443c2d9</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>dt_usuarios</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>8c285d34-6d89-48eb-8d88-77a19dabe544</dataFileGUID>
+   <dataSourceUrl>Data/dt_usuarios.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

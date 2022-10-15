@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ts_login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>9ae27d18-8f85-45c9-898f-bf8b45129ad0</testSuiteGuid>
+   <testCaseLink>
+      <guid>818e4497-cf6f-42c2-855f-f33a86f833e3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/android/app_demo/test_cases/01_login_exitoso</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>97bbecc2-ed22-4746-8d2f-d0c7aca76408</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3fbf4321-c02a-46e6-ad2a-f0267ee62b90</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d5b1632e-d1ee-4f9d-8bfd-01ddc4b79c60</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/android/app_demo/test_cases/02_login_usuario_invalido</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>384dd6a2-d53a-4dab-81e3-fdb2ff52fb7d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ce437471-0a12-4ad3-9999-66760acafac9</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

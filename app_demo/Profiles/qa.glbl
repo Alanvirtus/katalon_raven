@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>qa</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://automationpractice.com/index.php'</initValue>
+      <name>URL_ECOMMERCE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:/ambiente/katalon/app_demo/apps/app_demo.apk'</initValue>
+      <name>APP_ADR</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:/ambiente/katalon/app_demo/apps/app_demo.ipa'</initValue>
+      <name>APP_IOS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>TO_MIN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>15</initValue>
+      <name>TO_MID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>30</initValue>
+      <name>TO_MAX</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>120</initValue>
+      <name>TO_LONG</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

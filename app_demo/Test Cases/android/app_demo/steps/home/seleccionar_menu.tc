@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>seleccionar_menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4776453f-82b8-4393-9b9f-7bdb30213991</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6382b268-d6af-4d2c-a440-8531f64338e8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6382b268-d6af-4d2c-a440-8531f64338e8</id>
+      <masked>false</masked>
+      <name>MENU</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_consultar_registros</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04d677cf-df42-4ec9-bb61-1e3f75bfa3bb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2d158761-69cb-4349-9473-7cf978b64008</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5d118c4-5a76-4884-8178-48d566c0f8ee</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9a3d92db-a448-4f97-a261-3388d443c2d9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ABC1234'</defaultValue>
+      <description></description>
+      <id>2d158761-69cb-4349-9473-7cf978b64008</id>
+      <masked>false</masked>
+      <name>USUARIO</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test1234'</defaultValue>
+      <description></description>
+      <id>b5d118c4-5a76-4884-8178-48d566c0f8ee</id>
+      <masked>false</masked>
+      <name>PASSWORD</name>
+   </variable>
+   <variable>
+      <defaultValue>'CONSULTAR REGISTROS'</defaultValue>
+      <description></description>
+      <id>9a3d92db-a448-4f97-a261-3388d443c2d9</id>
+      <masked>false</masked>
+      <name>MENU</name>
+   </variable>
+</TestCaseEntity>

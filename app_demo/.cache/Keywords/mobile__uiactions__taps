@@ -1,0 +1,56 @@
+{
+  "keywordFileContentHash": "85B95F5FA49414971693E0CD5A0BBDD8",
+  "keywordClasses": [
+    {
+      "name": "mobile.uiactions.taps",
+      "keywordMethods": [
+        {
+          "name": "tapUIElement",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "elementName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "timeout",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

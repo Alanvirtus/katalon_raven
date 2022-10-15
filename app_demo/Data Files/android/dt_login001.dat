@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>dt_login001</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>bfe2c567-9292-4e45-8412-47dd8b0f4125</dataFileGUID>
+   <dataSourceUrl>Data/dt_login001.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
